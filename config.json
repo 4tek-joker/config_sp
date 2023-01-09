@@ -1,4 +1,4 @@
 {
-  "app1": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app1/{platform}/v1",
-  "app2": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app2/{platform}/v1"
+  "app1": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app1/v1",
+  "app2": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app2/v1"
 }
