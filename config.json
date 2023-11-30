@@ -1,4 +1,14 @@
 {
-  "app1": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app1/v1",
-  "app2": "https://raw.githubusercontent.com/4tek-joker/config_sp/main/app2/v1"
+    "data": [
+        {
+            "appId": "com.mini.app.p2pd",
+            "appName": "P2PD",
+            "containerName": "p2pd",
+            "module": "./App",
+            "url": "https://raw.githubusercontent.com/mobile-ekko/config_supper_app/main/mini",
+            "version": "0.0.1",
+            "loadType": "git",
+            "type": "Container"
+        }
+    ]
 }
