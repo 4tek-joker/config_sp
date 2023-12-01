@@ -6,7 +6,7 @@
             "containerName": "p2pd",
             "module": "./App",
             "url": "https://raw.githubusercontent.com/mobile-joker-068/bundle_mini_app/main/p2pd_api_mini",
-            "version": "0.0.2",
+            "version": "1.0.1",
             "loadType": "git",
             "type": "Container"
         }
