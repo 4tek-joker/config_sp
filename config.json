@@ -3,7 +3,7 @@
         {
             "appId": "com.mini.app.p2pd",
             "appName": "P2PD",
-            "containerName": "p2pd",
+            "containerName": "p2pd_test",
             "module": "./App",
             "url": "https://raw.githubusercontent.com/mobile-joker-068/bundle_mini_app/main/v102/",
             "version": "1.0.3",
